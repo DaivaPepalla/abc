@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0px;
+    background-image: url("src/assets/gradi.jpg");
+    background-size: 100%;
+    transition: background-size 20s;
+}
+body:hover{
+    background-size: 80%;
+}
